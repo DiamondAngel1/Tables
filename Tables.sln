@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tables", "Tables\Tables.csproj", "{D3C74963-EE2A-44CD-B853-E2058D0E439A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{44E97201-6FC5-434F-9CF8-00A72009E4F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C74963-EE2A-44CD-B853-E2058D0E439A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C74963-EE2A-44CD-B853-E2058D0E439A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C74963-EE2A-44CD-B853-E2058D0E439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C74963-EE2A-44CD-B853-E2058D0E439A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E97201-6FC5-434F-9CF8-00A72009E4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E97201-6FC5-434F-9CF8-00A72009E4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E97201-6FC5-434F-9CF8-00A72009E4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E97201-6FC5-434F-9CF8-00A72009E4F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9D4DB0-FDA9-4813-B490-3E0A55EFBAD9}
+	EndGlobalSection
+EndGlobal
